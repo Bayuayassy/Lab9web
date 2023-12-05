@@ -1,4 +1,4 @@
-# Lab9web
+## Lab9web
 
 Nama &nbsp; &nbsp;: Bayu Maulana Ayassy<br>
 NIM&nbsp; &nbsp; &nbsp; : 312210166<br>
@@ -15,7 +15,7 @@ Kelas&ensp; &nbsp; : TI.22.A.1<br>
 - Jalankan Apache dan MySQL server dari menu XAMPP Control
 - Kemudian buat folder baru dengan nama lab9_php_modular pada docroot webserver (c:\xampp\htdocs). Kemudian buka melalui browser dengan mengakses URL: http://localhost/lab9_php_modular/.
 
-![1](https://github.com/syifaaurellia/Lab9web/assets/115867244/ab5f4256-e26d-47be-974b-67e51867e1aa)
+![a](https://github.com/Bayuayassy/Lab9web/assets/115678251/dcd95f62-64b3-41ed-9980-f72f25723b7f)
 
 1. Buat file dengan nama `header.php`
 ```
@@ -73,9 +73,10 @@ Kelas&ensp; &nbsp; : TI.22.A.1<br>
 ```
 
 - Output halaman `Home` :
-![2](https://github.com/syifaaurellia/Lab9web/assets/115867244/c1058bc0-3584-4a84-865d-046af8369cfc)
+  ![1](https://github.com/Bayuayassy/Lab9web/assets/115678251/b81efe6e-9486-4704-aa74-81d0a7f6039e)
 
 
 - Output halaman `About` :
-![3](https://github.com/syifaaurellia/Lab9web/assets/115867244/51313ca1-49ee-4552-914e-6e2abc1ce828)
+![2](https://github.com/Bayuayassy/Lab9web/assets/115678251/411e6a68-1bc6-43a3-bcd7-b4cc632917df)
 
+## Terima Kasih
